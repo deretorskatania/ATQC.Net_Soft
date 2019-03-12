@@ -1,2 +1,9 @@
 First line
+<<<<<<< HEAD
 Second line from master
+Second line in branch
+Third line in branch
+=======
+Second line in branch
+Third line in branch
+>>>>>>> ExtendCounter
